@@ -1,0 +1,14 @@
+meta:
+  name: Hochschule Bochum
+  link: https://www.hochschule-bochum.de
+
+# TODO: Logo als SVG-Datei hier ablegen, sobald geklärt ist, ob es weitergegeben werden darf
+logo:
+  medium: https://www.hochschule-bochum.de/_assets/e1b7833f96a3afb11c987930cb75faa0/Images/hs-bo_logo.svg
+
+# TODO: Farben und ggf. Schrift nach den Gestaltungsrichtlinien der HS
+# color:
+#   primary:
+#   secondary:
+# typography:
+#   base:

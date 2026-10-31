@@ -6,8 +6,8 @@ Quarto-Brand der Hochschule Bochum nach dem
 Layout und Stil enthalten.
 
 - **Logo:** `small` ist die Bildmarke BO, `medium` das Logo im Querformat, `large` im Hochformat, jeweils mit
-  weißer Fassung für dunkle Hintergründe. Die SVGs in `logos/` sind unverändert aus dem Download der Hochschule
-  (Logos_2025, RGB); das Handbuch erlaubt nur die Verwendung in unveränderter Form.
+  weißer Fassung für dunkle Hintergründe. Die SVGs in `logos/` stammen aus dem Download der Hochschule
+  (Logos_2025, RGB); nur der leere Rand im `viewBox` ist zugeschnitten, die Logoformen selbst sind unverändert.
 - **Farben:** `primary` ist BO Rot (`#E2001A`), die Bereichsfarben stehen in der Palette, z. B. `bauingenieurwesen`.
 - **Schriften:** keine. Die Hausschriften (BO Regular, BO Antiqua, BO Display) gibt es nur auf Anfrage, im Web nimmt
   die Hochschule Arial.
